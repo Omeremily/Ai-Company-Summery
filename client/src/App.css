@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+input {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  width: 300px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin: 1rem;
+  font-size: 1rem;
+}
+
+.brochure {
+  text-align: left;
+  margin-top: 2rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+}
+
+select,
+input,
+button {
+  margin: 8px;
+  padding: 10px;
+}
+button.selected {
+  background: #1c4fb3;
+  color: #fff;
+}
+.comparison {
+  margin: 40px auto;
+  max-width: 900px;
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table,
+th,
+td {
+  border: 1px solid #ccc;
+}
+th,
+td {
+  padding: 8px;
+}
